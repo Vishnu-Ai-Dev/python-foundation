@@ -26,7 +26,7 @@
     file.write(cust_name+"\n")
     file.write(cust_address+"\n")'''
 
-def login_system(user,pass_word):
+'''def login_system(user,pass_word):
     if user=="admin" and pass_word=="admin123":
         return ("Admin access allowed")
     elif user=="admin":
@@ -42,4 +42,5 @@ password=(input("enter password:"))
 print(login_system(user_name,password))
 
 with open("login system.txt","w") as file:
-    file.write(user_name +" Attempted login"+"\n")
+    file.write(user_name +" Attempted login"+"\n")'''
+
