@@ -3,7 +3,7 @@
 A systematic exploration of Python fundamentals through 27 daily exercises and practical implementations. This repository documents my progression from basic syntax to object-oriented programming, data manipulation, and visualization.
 
 ## Overview
-This project represents a structured 30-day learning path covering core Python concepts, data structures, object-oriented programming principles, and essential libraries for data analysis. Each day folder contains focused exercises demonstrating understanding of specific topics through incremental complexity.
+This project represents a structured 30--day learning path covering core Python concepts, data structures,  principles of object-oriented programming  and essential libraries for data analysis. Each day folder contains focused exercises demonstrating understanding of specific topics through incremental complexity.
 
 **Period:** March 2026  
 **Environment:** Python 3.12, Jupyter Notebook, VS Code  
